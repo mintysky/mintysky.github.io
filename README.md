@@ -1,2 +1,2 @@
-# mintysky.github.com
+# mintysky.github.io
 webdesign
