@@ -7,3 +7,11 @@ body{
   overflow-x: hidden;
   font-weight: 300;
 }
+.nav-right{
+  float:right;
+
+}
+.nav-right>ul>li{
+  float:left;
+  color:#fff;
+}
